@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -1 iacta/tmp
+tail -n ²1 iact
