@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Ac" | tr "Ze" ./19-Az
+echo "Arbre et cactus" | tr "Ac" "Ze" ./19-AZ
