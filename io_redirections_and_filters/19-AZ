@@ -1,2 +1,2 @@
 #!/bin/bash
-echo ./19-AZ | tr "Ac" "Ze"
+echo "Ac" | tr "Ze" ./19-Az
