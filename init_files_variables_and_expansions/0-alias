@@ -1,2 +1,2 @@
 #!/bin/bash
-Â §ls rm -f *
+printenv ls rm -f *
