@@ -1,2 +1,2 @@
 #!/bin/bash
-printenv ls rm -f *
+§allias s="rm -f *"
