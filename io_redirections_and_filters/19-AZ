@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Arbre et cactus" | tr "Ac" "Ze" 
+echo | tr "Ac" "Ze" ./ 
