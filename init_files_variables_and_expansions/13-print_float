@@ -1,2 +1,2 @@
 #!/bin/bash
-printenv $((NUM))
+printf '''%.2f''' $NUM
